@@ -1,6 +1,6 @@
 # RC-Car
 
-![](https://cdn.hack.pet/slackcdn/777c8d65e477c1cbab128f446f52dc1d.png)
+![](https://cdn.hackclubber.dev/slackcdn/6f4c407c372b913c91de4fc991328954.png)
 
 I made this RC car using an ESP32, Motor driver, DC gear motors, and a metal chassis!!!
 
